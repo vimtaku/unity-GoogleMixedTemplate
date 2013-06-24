@@ -1,0 +1,129 @@
+
+/**
+ * UITableView Section Headers
+ */
+.sectionHeader {
+  background-color: #949494;
+  -ios-autoresizing: width;
+}
+
+.sectionHeaderLabel {
+  background-color: clear;
+  font: 16 "HelveticaNeue";
+  color: white;
+  text-shadow: rgba(0, 0, 0, 0.2) 0 1;
+  text-align: left;
+  -ios-autoresizing: width;
+}
+
+.sectionHeaderDivider {
+  background-color: #8E8E8E;
+  -ios-autoresizing: width top;
+}
+
+/**
+ * Navigation Bar
+ */
+.navBarTitle {
+  background-color: clear;
+  color: #6B6B6B;
+  text-shadow: rgba(255, 255, 255, 0.8) 0 1;
+  font: 20 "HelveticaNeue-Light";
+}
+
+.navBarTitleLandscape {
+  font: 18 "HelveticaNeue-Light";
+}
+
+/**
+ * Table Header
+ */
+.tableHeaderImage {
+  -ios-autoresizing: width;
+  background-color: black;
+}
+
+.tableHeaderOverlay {
+  background-color: rgba(0, 0, 0, 0.40);
+}
+
+.tableHeaderShadow {
+  -ios-autoresizing: width;
+}
+
+.tableHeaderTitle,
+.tableHeaderLargeSubtitle,
+.tableHeaderSubtitle {
+  background-color: clear;
+  font: 16 "HelveticaNeue-Light";
+  color: white;
+  text-shadow: rgba(0, 0, 0, 0.75) 0 1;
+}
+
+.tableHeaderLargeSubtitle {
+  font: 21 "HelveticaNeue-Bold";
+}
+
+/**
+ * Table Cells
+ */
+.tableCellTitle,
+.tableCellCenteredTitle {
+  font: 16 "HelveticaNeue-Bold";
+  color: #222;
+  text-shadow: rgba(255, 255, 255, 0.75) 0 1;
+}
+
+.tableCellSubtitle {
+  font: 12 "HelveticaNeue";
+  color: #6B6B6B;
+  text-shadow: rgba(255, 255, 255, 0.75) 0 1;
+  -ios-number-of-lines: 0;
+  -ios-line-break-mode: wrap;
+}
+
+.tableCellCenteredTitle {
+  text-align: center;
+  -ios-number-of-lines: 0;
+  -ios-line-break-mode: tail-truncate;
+}
+
+.pagingCellTitle {
+  color: black;
+  text-align: center;
+}
+
+.loadingCellActivityIndicator {
+  -ios-activity-indicator-style: gray;
+  -ios-autoresizing: margins;
+}
+
+/**
+ * Leaderboard Table Cells
+ */
+.scoreCellImage {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.scoreCellRank {
+  text-align: center;
+  color: rgb(34, 34, 34);
+  font: 20 "HelveticaNeue-Bold";
+  -ios-minimum-font-size: 14;
+  background-color: clear;
+}
+
+/**
+ * Settings view header and footer
+ */
+.settingsHeader {
+  color: black;
+  font: 16 "HelveticaNeue-Bold";
+  background-color: clear;
+}
+
+.settingsFooter {
+  color: rgb(102, 102, 102);
+  font: 11 "HelveticaNeue-Italic";
+  background-color: clear;
+}

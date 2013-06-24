@@ -1,0 +1,77 @@
+DEBUG:Params ['/Users/mac/unity/GoogleMixedTemplate/Assets/Editor/PostprocessBuildPlayer', '/Users/mac/unity/GoogleMixedTemplate/build/iosbuild/iosbuild', 'iPhone', 'strip', 'DefaultCompany', 'GoogleMixedTemplate', '1024', '768']
+DEBUG:Executing googleplay_xcode.py
+DEBUG:Finished script googleplay_xcode.py
+DEBUG:Executing googleplay_eclipse.py
+DEBUG:Finished script googleplay_eclipse.py
+urity.framework
+
+Adding build file MessageUI.framework
+
+Adding build file StoreKit.framework
+
+Adding build file AdSupport.framework
+
+Adding build file GooglePlus.bundle
+
+Adding build file PlayGameServices.bundle
+
+Adding framework file reference GooglePlus.framework
+
+Adding framework file reference GoogleOpenSource.framework
+
+Adding framework file reference PlayGameServices.framework
+
+Adding framework file reference CoreData.framework
+
+Adding framework file reference Security.framework
+
+Adding framework file reference MessageUI.framework
+
+Adding framework file reference StoreKit.framework
+
+Adding framework file reference AdSupport.framework
+
+Adding data file reference GooglePlus.bundle
+
+Adding data file reference PlayGameServices.bundle
+
+Adding build phase GooglePlus.framework
+
+Adding build phase GoogleOpenSource.framework
+
+Adding build phase PlayGameServices.framework
+
+Adding build phase CoreData.framework
+
+Adding build phase Security.framework
+
+Adding build phase MessageUI.framework
+
+Adding build phase StoreKit.framework
+
+Adding build phase AdSupport.framework
+
+Add group GooglePlus.bundle
+
+Add group PlayGameServices.bundle
+
+Add group GooglePlus.framework
+
+Add group GoogleOpenSource.framework
+
+Add group PlayGameServices.framework
+
+Add group CoreData.framework
+
+Add group Security.framework
+
+Add group MessageUI.framework
+
+Add group StoreKit.framework
+
+Add group AdSupport.framework
+
+Adding build phase GooglePlus.bundle
+
+Adding build phase PlayGameServices.bundle
+

@@ -7,6 +7,9 @@ Temp
 build
 .DS_Store
 
+eclipse
+*.apk
+
 Assembly-CSharp.csproj
 Assembly-CSharp.pidb
 Assembly-CSharp-Editor.csproj
