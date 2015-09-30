@@ -69,7 +69,7 @@ create achievements at least 5, because google requires it.
 And register your leaderboard.  
 
 In sample project, two sample leaderboard is used.  
-But achievment is not used.  
+But achievement is not used.  
 
 
 #### 3. In unity 3d, fix files.  
